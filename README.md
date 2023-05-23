@@ -6,7 +6,7 @@ This project extracts all reviews from a search result on eMAG.ro. It parses eac
 
 
 
-## Features
+## Some Key Features
 
 - Translates all reviews from Romanian to English
 - Preprocesses & Cleans the data
